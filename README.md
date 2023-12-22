@@ -1,0 +1,1 @@
+This Repository consists of Source codes for Data structures required for Second year engineering Students. The source codes have been suitably documented and is easily readable. The following Data structures are included : Stacks, Queues, Linked Lists (Singly, Doubly), Trees.
